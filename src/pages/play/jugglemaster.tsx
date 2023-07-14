@@ -4,7 +4,7 @@ export default function JuggleMaster() {
   return (
     <div
       style={{
-        height: "80vh",
+        height: "90vh",
         display: "flex",
         justifyContent: "center",
         flexDirection: "column",
@@ -32,7 +32,7 @@ export default function JuggleMaster() {
           flexDirection: "column",
           justifyContent: "center",
           textAlign: "center",
-          padding: "10%",
+          padding: "2rem",
         }}
       >
         <span
